@@ -21,11 +21,11 @@ SRAM, known as Static Random Access Memory also known as Read Write Memory has b
 
 
 # Waveform for Write operation
-![write](https://user-images.githubusercontent.com/98079644/194717288-983d7165-8e77-4a20-bb4d-7fcffd4c8d36.png)
+![write1](https://user-images.githubusercontent.com/98079644/194719972-f937c3c4-48a4-402f-bd50-5dd27edcd2d9.png)
 
 
 # Waveform for Read operation
-![read](https://user-images.githubusercontent.com/98079644/194717308-93afb92d-9da2-4629-9569-14020db2c449.png)
+![read1](https://user-images.githubusercontent.com/98079644/194719980-194b09ae-01b7-4720-9224-a856ca5a6dd1.png)
 
 
 # ZIP Files
